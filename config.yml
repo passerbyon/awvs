@@ -1,0 +1,4 @@
+host: https://192.168.101.36:3443/api/v1
+key: 1986ad8c0a5b3df4d7028d5f3c06e936ce19bf8a3c2a7427e9a7ca065a552391f
+proxy_host: 127.0.0.1
+proxy_port: 7890
